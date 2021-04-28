@@ -1,3 +1,4 @@
+![Power BI](https://user-images.githubusercontent.com/69264932/116329239-87c69600-a790-11eb-945c-0d773303e980.gif)
 # Kamini - Business Intelligence Portfolio
 
 ### [Variation of Food Prices](https://public.tableau.com/profile/kamini.ravichandran5080#!/vizhome/VariationofFoodPrices_16195678471150/VariationofFoodPrices)
@@ -31,4 +32,5 @@
 
 ### Student Population Ranked in US between 1840-1990
 
-![]((/Viz_Images/Power%20BI.gif))
+![Power BI](https://user-images.githubusercontent.com/69264932/116329291-a62c9180-a790-11eb-8c44-02d422972832.gif)
+
