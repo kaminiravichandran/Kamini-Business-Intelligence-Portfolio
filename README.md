@@ -1,3 +1,5 @@
+Instruction: Click on the Project Name to view my Dashboards in Tableau Public
+
 
 ### [Variation of Food Prices](https://public.tableau.com/profile/kamini.ravichandran5080#!/vizhome/VariationofFoodPrices_16195678471150/VariationofFoodPrices)
 
