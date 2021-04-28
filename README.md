@@ -1,4 +1,3 @@
-![Power BI](https://user-images.githubusercontent.com/69264932/116329239-87c69600-a790-11eb-945c-0d773303e980.gif)
 # Kamini - Business Intelligence Portfolio
 
 ### [Variation of Food Prices](https://public.tableau.com/profile/kamini.ravichandran5080#!/vizhome/VariationofFoodPrices_16195678471150/VariationofFoodPrices)
