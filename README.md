@@ -29,6 +29,6 @@
 ![](/Viz_Images/5.PNG)
 
 
-### [Student Population Ranked in US between 1840-1990]
+### Student Population Ranked in US between 1840-1990
 
 ![]((/Viz_Images/Power%20BI.gif))
